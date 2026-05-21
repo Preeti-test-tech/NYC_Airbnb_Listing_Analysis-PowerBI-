@@ -15,5 +15,9 @@ This project analyzes Airbnb listings in NYC using Power BI.
 - Host activity analysis
 
 ## Files
-- Airbnb Listing Analysis.pbix → Power BI Dashboard Pdf
+- Airbnb Listing Analysis.pbix → Power BI Dashboard.png
 - AB_NYC_data.csv → Dataset
+- Neighborhood vs Total Booking.png
+- Price by Neighborhood.png
+- Top-10 Host Reviews.png
+- Total Reviews by Month.png
